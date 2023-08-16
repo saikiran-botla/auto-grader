@@ -1,0 +1,6 @@
+bash download.sh <weblink> --cut-dirs=2
+bash organise.sh 
+bash evaluate.sh
+
+
+Generates marksheet.csv, distribution.txt
